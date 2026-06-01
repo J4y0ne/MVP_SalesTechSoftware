@@ -1,19 +1,19 @@
-## Welcome to Raizen Tech! 🧐
+## Welcome to TechShop! 🧐
 **Instalación:**
 
 Se debe contar con VS Code para poder clonar el proyecto y contar con las extensiones de .net y C# para evitar posibles errores.
 
 ![](https://p4.wallpaperbetter.com/wallpaper/653/77/176/computer-engineering-science-tech-wallpaper-preview.jpg)
->Always present, always more
+>Los mejores precios siempre!
 
 ### Introducción:
 
-Razien Tech es una empresa que encuentra la necesidad de conectividad del usuario promedio, por lo que nace con la finalidad de ofrecer soluciones de telecomunicaciones fiables y de gran calidad, entre los cuales se presentan routers, modems, switchers y más.
+TechShop es una tienda de productos tecnológicos que busca digitalizar y automatizar su proceso de ventas mediante una plataforma online.
 
 Algunos testimonios de nuestros clientes:
->Good website. - **Franchesco Zidan**
+>Buen sitio. - **Franchesco Hernandez**
 
->Very happy, my routers work great and my signal is the best when I buy my personal things. - **Rafaella Arya**
+>Muy contenta con los equipos comprados a través de su sitio web. - **Rafaella Alcántara**
 
 ### Funcionalidades:
 
