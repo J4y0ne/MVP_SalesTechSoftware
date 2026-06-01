@@ -32,4 +32,4 @@ graph TD;
 ```
 ### Prueba Online
 
-Raizen Tech cuenta con un live demo disponible en https://link. Los usuarios pueden explorar la tienda en línea, agregar productos al carrito de compras y realizar compras de prueba.
+TechShop cuenta con un live demo disponible en https://link. Los usuarios pueden explorar la tienda en línea, agregar productos al carrito de compras y realizar compras de prueba.
