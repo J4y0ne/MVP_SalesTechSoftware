@@ -3,7 +3,7 @@
 
 Se debe contar con VS Code para poder clonar el proyecto y contar con las extensiones de .net y C# para evitar posibles errores.
 
-![](https://p4.wallpaperbetter.com/wallpaper/653/77/176/computer-engineering-science-tech-wallpaper-preview.jpg)
+![](https://media.licdn.com/dms/image/v2/C561BAQHzAZmBO9EyOw/company-background_10000/company-background_10000/0/1599668253585/techshopmanufacturing_cover?e=2147483647&v=beta&t=3w95iUi4d_ynEPb-40O10QXitfXOBFBxQ9VzwkCR7g8)
 >Los mejores precios siempre!
 
 ### Introducción:
